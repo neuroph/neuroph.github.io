@@ -13,7 +13,7 @@ permalink: /download/
 
 Java Neural Network IDE based on NetBeans Platform
 
-* [neurophstudio-windows-2.92.exe](http://sourceforge.net/projects/neuroph/files/neuroph-2.92/neurophstudio-windows-2.92.exe/download) win installer [119.4 Mb]
-* neurophstudio-linux-2.92.sh linux installer [119 Mb]
-* neurophstudio-linux-2.92.sh linux installer [119 Mb]
+* [neurophstudio-windows-2.92.exe](http://sourceforge.net/projects/neuroph/files/neuroph-2.92/neurophstudio-windows-2.92.exe/download) Windows installer [119.4 Mb]
+* [neurophstudio-linux-2.92.sh](http://sourceforge.net/projects/neuroph/files/neuroph-2.92/neurophstudio-linux-2.92.sh/download) Linux installer [119 Mb]
+* [neurophstudio-macosx-2.92.sh](http://sourceforge.net/projects/neuroph/files/neuroph-2.92/neurophstudio-macosx-2.92.tgz/download) MacOs installer [119 Mb]
 * neurophstudio-2.92.zip zip distribution [221.7 Mb]
