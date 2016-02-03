@@ -4,7 +4,7 @@ title: Download
 permalink: /download/
 ---
 
-### Download
+# Download
 
 List download packages and instructions
 
