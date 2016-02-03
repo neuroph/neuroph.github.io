@@ -3,7 +3,7 @@ layout: post
 title: New Neuroph site!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+This is the new Neuroph site. We're building this new site in order to make it easier for Neuroph users to contribute examples, content and share their Neuroph related projects
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
