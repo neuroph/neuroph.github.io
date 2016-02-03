@@ -4,12 +4,12 @@ title: Download
 permalink: /download/
 ---
 
-## Neuroph Framework
+### Neuroph Framework
 
 * [neuroph-2.92.zip](http://sourceforge.net/projects/neuroph/files/neuroph-2.92/neuroph-2.92.zip/download)
   Neuroph framework. Contains Neuroph jars, full sources, docs, samples [51.7 Mb]
 
-## Neuroph Studio, GUI
+### Neuroph Studio, GUI
 
 Java Neural Network IDE based on NetBeans Platform
 
