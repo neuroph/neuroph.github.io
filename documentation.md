@@ -6,9 +6,12 @@ permalink: /documentation/
 
 List Neuroph documentation
 
-API Doc
+[API documantation](http://neuroph.sourceforge.net/javadoc/index.html)
+Javadoc generated documentation for the library classes
+
 Quick Start
 
+[Current documentation on old site](http://neuroph.sourceforge.net/documentation.html)
 
 ## Introductory
 
