@@ -4,8 +4,6 @@ title: Documentation
 permalink: /documentation/
 ---
 
-### Documentation
-
 List Neuroph documentation
 
 ## Introductory
