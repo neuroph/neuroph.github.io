@@ -4,7 +4,6 @@ title: Examples
 permalink: /examples/
 ---
 
-# Examples
 
 List source code samples 
 
