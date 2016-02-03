@@ -6,6 +6,10 @@ permalink: /documentation/
 
 List Neuroph documentation
 
+API Doc
+Quick Start
+
+
 ## Introductory
 
 List and link introductory tutorials here
