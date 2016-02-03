@@ -9,6 +9,7 @@ List Neuroph documentation
 API Doc
 Quick Start
 
+[Current documentation on old site](http://neuroph.sourceforge.net/documentation.html)
 
 ## Introductory
 
